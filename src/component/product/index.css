@@ -1,0 +1,6 @@
+.product-form{
+  display: flex;
+}
+.product-submit-btn {
+  margin-left: 50px;
+}
